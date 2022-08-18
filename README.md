@@ -1,3 +1,13 @@
+# Quiz App React and Typescript
+
+- This is a quiz application which generates random multiple choice questions built with React and Typescript and bootstrapped with Material UI
+
+## How to Run this application
+
+- git clone this repository
+- run npm install
+- run npm run start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
